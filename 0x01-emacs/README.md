@@ -1,1 +1,1 @@
-# Learning emacs commands
+# Emacs commands
